@@ -1,0 +1,42 @@
+{
+  "app_name": "Lembrete de Medicamentos",
+  "nav": {
+    "today": "Hoje",
+    "add": "Adicionar",
+    "history": "Histórico"
+  },
+  "dashboard": {
+    "title": "Hoje",
+    "no_meds": "Nenhum medicamento programado para hoje.",
+    "add_hint": "Use a guia \"Adicionar\" para criar um novo lembrete.",
+    "mark_taken": "Marcar como Tomado",
+    "taken_success": "Medicamento marcado como tomado!"
+  },
+  "add": {
+    "title": "Adicionar Medicamento",
+    "subtitle": "Crie um novo lembrete.",
+    "name_label": "Nome do Medicamento",
+    "name_placeholder": "Ex: Aspirina, Paracetamol",
+    "dosage_label": "Dosagem / Quantidade",
+    "dosage_placeholder": "Ex: 1 Comprimido, 500mg",
+    "freq_label": "Frequência Diária",
+    "freq_unit": "vezes / dia",
+    "times_label": "Horários de Toma",
+    "submit": "Salvar e Definir Lembrete",
+    "error_name": "Por favor, insira o nome do medicamento.",
+    "success": "Medicamento adicionado com sucesso!"
+  },
+  "history": {
+    "title": "Meus Medicamentos",
+    "subtitle": "Seus medicamentos salvos e histórico.",
+    "no_meds": "Nenhum medicamento adicionado ainda.",
+    "times_per_day": "{{count}} vezes ao dia",
+    "confirm_delete": "Tem certeza de que deseja excluir este medicamento?",
+    "recent_activity": "Atividade Recente",
+    "taken": "Tomado",
+    "missed": "Perdido"
+  },
+  "lang": {
+    "select": "Selecione o Idioma"
+  }
+}

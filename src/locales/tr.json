@@ -1,0 +1,42 @@
+{
+  "app_name": "İlaç Hatırlatıcı",
+  "nav": {
+    "today": "Bugün",
+    "add": "Ekle",
+    "history": "Geçmiş"
+  },
+  "dashboard": {
+    "title": "Bugün",
+    "no_meds": "Bugün için planlanmış ilaç yok.",
+    "add_hint": "Yeni ilaç eklemek için \"Ekle\" sekmesini kullanın.",
+    "mark_taken": "İçildi İşaretle",
+    "taken_success": "İlaç içildi olarak işaretlendi!"
+  },
+  "add": {
+    "title": "İlaç Ekle",
+    "subtitle": "Yeni bir hatırlatıcı oluşturun.",
+    "name_label": "İlaç Adı",
+    "name_placeholder": "Örn: Parol, Aspirin",
+    "dosage_label": "Dozaj / Miktar",
+    "dosage_placeholder": "Örn: 1 Tablet, 500mg",
+    "freq_label": "Günlük Kullanım Sıklığı",
+    "freq_unit": "kez / gün",
+    "times_label": "İçme Saatleri",
+    "submit": "Kaydet ve Hatırlatıcı Kur",
+    "error_name": "Lütfen ilaç adını girin.",
+    "success": "İlaç başarıyla eklendi!"
+  },
+  "history": {
+    "title": "İlaçlarım",
+    "subtitle": "Kayıtlı ilaçlarınız ve geçmişiniz.",
+    "no_meds": "Henüz ilaç eklenmemiş.",
+    "times_per_day": "Günde {{count}} kez",
+    "confirm_delete": "Bu ilacı silmek istediğinize emin misiniz?",
+    "recent_activity": "Son Hareketler",
+    "taken": "İçildi",
+    "missed": "Kaçırıldı"
+  },
+  "lang": {
+    "select": "Dil Seçin"
+  }
+}

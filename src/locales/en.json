@@ -1,0 +1,42 @@
+{
+  "app_name": "Medication Reminder",
+  "nav": {
+    "today": "Today",
+    "add": "Add",
+    "history": "History"
+  },
+  "dashboard": {
+    "title": "Today",
+    "no_meds": "No medications scheduled for today.",
+    "add_hint": "Use the \"Add\" tab to create a new reminder.",
+    "mark_taken": "Mark as Taken",
+    "taken_success": "Medication marked as taken!"
+  },
+  "add": {
+    "title": "Add Medication",
+    "subtitle": "Create a new reminder.",
+    "name_label": "Medication Name",
+    "name_placeholder": "e.g., Aspirin, Paracetamol",
+    "dosage_label": "Dosage / Amount",
+    "dosage_placeholder": "e.g., 1 Pill, 500mg",
+    "freq_label": "Daily Frequency",
+    "freq_unit": "times / day",
+    "times_label": "Intake Times",
+    "submit": "Save and Set Reminder",
+    "error_name": "Please enter the medication name.",
+    "success": "Medication added successfully!"
+  },
+  "history": {
+    "title": "My Medications",
+    "subtitle": "Your saved medications and history.",
+    "no_meds": "No medications added yet.",
+    "times_per_day": "{{count}} times a day",
+    "confirm_delete": "Are you sure you want to delete this medication?",
+    "recent_activity": "Recent Activity",
+    "taken": "Taken",
+    "missed": "Missed"
+  },
+  "lang": {
+    "select": "Select Language"
+  }
+}

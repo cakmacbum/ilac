@@ -1,0 +1,42 @@
+{
+  "app_name": "Recordatorio de Medicamentos",
+  "nav": {
+    "today": "Hoy",
+    "add": "Añadir",
+    "history": "Historial"
+  },
+  "dashboard": {
+    "title": "Hoy",
+    "no_meds": "No hay medicamentos programados para hoy.",
+    "add_hint": "Usa la pestaña \"Añadir\" para crear un nuevo recordatorio.",
+    "mark_taken": "Marcar como Tomado",
+    "taken_success": "¡Medicamento marcado como tomado!"
+  },
+  "add": {
+    "title": "Añadir Medicamento",
+    "subtitle": "Crea un nuevo recordatorio.",
+    "name_label": "Nombre del Medicamento",
+    "name_placeholder": "Ej: Aspirina, Paracetamol",
+    "dosage_label": "Dosis / Cantidad",
+    "dosage_placeholder": "Ej: 1 Pastilla, 500mg",
+    "freq_label": "Frecuencia Diaria",
+    "freq_unit": "veces / día",
+    "times_label": "Horarios de Toma",
+    "submit": "Guardar y Establecer Recordatorio",
+    "error_name": "Por favor ingresa el nombre del medicamento.",
+    "success": "¡Medicamento añadido con éxito!"
+  },
+  "history": {
+    "title": "Mis Medicamentos",
+    "subtitle": "Tus medicamentos guardados y el historial.",
+    "no_meds": "Aún no se han añadido medicamentos.",
+    "times_per_day": "{{count}} veces al día",
+    "confirm_delete": "¿Estás seguro de que quieres eliminar este medicamento?",
+    "recent_activity": "Actividad Reciente",
+    "taken": "Tomado",
+    "missed": "Perdido"
+  },
+  "lang": {
+    "select": "Seleccionar Idioma"
+  }
+}

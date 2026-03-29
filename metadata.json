@@ -1,0 +1,5 @@
+{
+  "name": "İlaç Hatırlatıcı PWA",
+  "description": "Kullanıcıların ilaçlarını zamanında içmelerini sağlayan, bildirim ve alarm özellikli PWA.",
+  "requestFramePermissions": ["notifications"]
+}
